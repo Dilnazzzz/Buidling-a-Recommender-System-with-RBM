@@ -7,7 +7,7 @@ This project applies RBMs in collaborative filtering, where the algorithm learns
 
 <img width="344" alt="Screen Shot 2023-02-06 at 12 20 08" src="https://user-images.githubusercontent.com/76237763/216902543-31dea70b-2144-481d-89a1-3cda5a1c889e.png">
 
-The Recommendation Score column scores probabilities of how much the book fits the user’s pre- vious interests. In other words, we can interpret the scores as the likelihood of the user reading and liking this book.
+The Recommendation Score column scores probabilities of how much the book fits the user’s previous interests. In other words, we can interpret the scores as the likelihood of the user reading and liking this book.
 
 <img width="238" alt="Screen Shot 2023-02-06 at 12 21 47" src="https://user-images.githubusercontent.com/76237763/216902741-2b102f33-73c1-457a-a4da-85dd29ebbfd5.png">
 
