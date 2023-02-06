@@ -11,3 +11,4 @@ The Recommendation Score column scores probabilities of how much the book fits t
 
 <img width="238" alt="Screen Shot 2023-02-06 at 12 21 47" src="https://user-images.githubusercontent.com/76237763/216902741-2b102f33-73c1-457a-a4da-85dd29ebbfd5.png">
 
+<img width="551" alt="Screen Shot 2023-02-06 at 12 22 28" src="https://user-images.githubusercontent.com/76237763/216902896-8dbfb30b-09bc-4591-b204-19c5a036dea1.png">
